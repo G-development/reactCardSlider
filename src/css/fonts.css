@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "RoobertENEL";
+  src: url("../files/fonts/RoobertENEL-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RoobertENEL";
+  src: url("../files/fonts/RoobertENEL-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "RoobertENEL";
+  src: url("../files/fonts/RoobertENEL-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RoobertENEL";
+  src: url("../files/fonts/RoobertENEL-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "RoobertENEL";
+  src: url("../files/fonts/RoobertENEL-Light.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RoobertENEL";
+  src: url("../files/fonts/RoobertENEL-LightItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "RoobertENEL";
+  src: url("../files/fonts/RoobertENEL-Regular.woff") format("woff");
+  font-weight: normal; 
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RoobertENEL";
+  src: url("../files/fonts/RoobertENEL-RegularItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
+.container{
+    font-family: RoobertENEL;
+}
